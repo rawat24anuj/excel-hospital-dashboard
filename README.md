@@ -34,7 +34,6 @@ This is a completed, professional Excel dashboard designed to visualize emergenc
 
 ---
 
-## 📁 Folder Structure
 
 
 
