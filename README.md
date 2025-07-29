@@ -3,7 +3,7 @@
 This is a completed, professional Excel dashboard designed to visualize emergency room data for a hospital. It highlights key insights into patient trends, wait times, satisfaction scores, and department referrals.
 
 ---
-
+![Hospital](https://github.com/rawat24anuj/excel-hospital-dashboard/blob/main/hospital.jpeg?raw=true)
 ## 📊 Key Metrics Covered
 
 - 🧑‍⚕️ Total Number of Patients (464)
