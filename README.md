@@ -30,7 +30,7 @@ This is a completed, professional Excel dashboard designed to visualize emergenc
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.jpg)
+![Dashboard Preview](https://github.com/rawat24anuj/excel-hospital-dashboard/blob/main/dashboard_preview.jpg?raw=true)
 
 ---
 
